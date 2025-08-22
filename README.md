@@ -1,30 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cody Willard
-====================================================================================================================================
+# 👋 Hey, I’m Cody
 
-Software Engineer
------------------
+I’m a self-taught developer and maker with a passion for building clean, practical tools — from **full-stack web apps** with React + Firebase to experimenting with **Rust on Raspberry Pi**. I enjoy blending functionality with design, focusing on user experience, performance, and a bit of aesthetic flair.
 
-I started programming in 2014, I started off with HTML and CSS. I took a break for a little while to decide what I wanted to do, career wise, in the meantime. I worked in multiple positions for a Walmart Distribution Center in South Georgia from 2014 to 2022 with my most recent position held in the company being an area manager. I enjoyed the job and the people I worked with, but I was just starting to realize it wasn't where I wanted to be. During my time there I started using Python to solve some problems we had and make some of the processes more efficient. Thats when I really started to realize what I wanted to do with my life. Programming has always been one of those things I keep coming back to. I love the problem solving aspect (it's like one big puzzle to me) and being able to take a blank slate and see it come to life and do the job I intended it to do. You know what they say, if you do what you love for a living, you'll never work a day in your life.
+---
 
-*   🌍  I'm based in Macon, GA, USA
-*   🧠  I'm learning Rust
+## 🚀 What I’m Working On
+- **Team Tracker** – A React + Firebase project with Tailwind styling and Framer Motion animations  
+- **Rust on Raspberry Pi** – Setting up Arch Linux ARM as a dev environment & exploring embedded projects  
+- **Linux customization** – Theming and tooling for Pop!_OS and Raspberry Pi setups  
+- **Personal utilities** – Scripts and helpers that make my workflow smoother  
+
+---
+
+## 🛠️ Tech & Tools
+
+### Languages
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40"/>
 </p>
-                    
-            
-                  
-                  
+
+### Frameworks & Libraries
 <p align="left">
-                          
-<a href="https://discord.com/users/Skubaaa#2743" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.github.com/Cody-will" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="http://www.instagram.com/codywillfilm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.twitter.com/Skubaaaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-<a href="https://github.com/Cody-will" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-will&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Tailwind CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/framer/motion/main/docs/public/favicon.svg" alt="Framer Motion" width="40"/>
+</p>
+
+### Platforms & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian/Pop!_OS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40"/>
+</p>
+
+---
+
+## 📸 Outside of Code
+When I’m not writing code, I’m usually behind a camera.  
+I shoot with a **Fujifilm X100VI**, chasing a film-like aesthetic in digital photography. You can find my work at [📷 @grainsnatcher](https://instagram.com/grainsnatcher).
+
+---
+
+## 🎯 Other Interests
+- Linux ricing & desktop customization  
+- Automotive projects & restoration (Honda builds, swaps, performance tuning)  
+- Tinkering with hardware + embedded systems  
+
+---
+
+## 🌐 Let’s Connect
+- **GitHub:** [Cody-will](https://github.com/Cody-will)  
+- **Instagram (photography):** [@grainsnatcher](https://instagram.com/grainsnatcher)  
+
+---
+
+💡 Always learning, always building — whether it’s a new web app, a Rust experiment on Raspberry Pi, or a clean new photo edit.
